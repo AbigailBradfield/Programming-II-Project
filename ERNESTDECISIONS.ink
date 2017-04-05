@@ -22,11 +22,11 @@ Programming Captain: Jackson
 == meeting_one ==
 You arrive at school for the first meeting of the season. There are alot of new members who are interested in the program after last year's success. You are hopeful that the team will finally become a bigger part of the school and community.
 
-*[Go talk to your friends.] -> meeting_one_friends01
+*[go talk to your friends.] -> meeting_one_friends01
 
-*[Approach a small group of quiet freshmen.] -> meeting_one_freshmen01 
+*[approach a small group of quiet freshmen.] -> meeting_one_freshmen01 
 
-*[Go sit by yourself, interacting with no one.] 
+*[go sit by yourself, interacting with no one.] -> death_scene01
 
 == meeting_one_friends01 ==
 You walk up to your group of friends huddled around a table in the library; in the process you trip over a laptop cord. 
@@ -47,11 +47,19 @@ You walk up to your group of friends huddled around a table in the library; in t
     
     *[glare at them until someone starts talking.] -> meeting_one_freshmen02
     
-    *[explain the team in attempt to put them at ease.]
+    *[explain the team in attempt to put them at ease.] -> meeting_one_freshmen03
     
-    *[ramble about strategy in desperation.]
+    *[ramble about strategy in desperation.] -> meeting_one_freshmen03
     
 == meeting_one_freshmen02 ==
-    They shiver under your cold gaze. After a few awkward moments, Chris enthusiasticlly pipes in,
+    They shiver under your cold gaze. After a few awkward moments, Chris enthusiasticlly pipes in saying "I heard there was 3d printing. That seems cool."
+    *[not wanting to scare the rest, you start the meeting.] -> meeting_one_start01
+== meeting_one_freshmen03 ==
+    After an extensive explanation, the freshmen look very confused, but appear at least a little more at ease.
+    *[you decide to start the meeting before you traumatize them.] 
+    -> meeting_one_start01
+== death_scene01 ==
+    You are not very approachable. You never start the meeting. The mentors take you off of leadership. No one else steps up. The team dies. Good job. :^)
+    ->DONE
 == meeting_one_start01 ==
 ->DONE
