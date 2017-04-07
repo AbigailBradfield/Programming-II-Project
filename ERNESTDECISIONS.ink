@@ -79,13 +79,21 @@ You walk up to your group of friends huddled around a table in the library; in t
     *[ignore it and continue your pleasant day.] -> procrastination01
 
 == bad_news01 ==
-    ->DONE
+It reads: 
+The school system cut our funding last week. We’re going to have to make up for the loss somehow. Put together a team of people to start approaching local companies about sponsorship opportunities. 
+
+	*[put your phone away, not really sure what to think.] -> series_of_unfortunate_events02
     
 == procrastination01 ==
-    ->DONE
+The physics lab went unexpectedly well. Garret only almost died once, which had to be some sort of record. Between the success of the Physics lab and your Math test, you chalked the day up as pretty good. By the time you’re ready to go to sleep, the email in your inbox is completely forgotten about. 
 
+*[go to sleep.] -> series_of_unfortunate_events_procrastionation02
 
+== series_of_unfortunate_events02 ==
+-> DONE
 
+== series_of_unfortunate_events_procrastionation02 ==
+-> DONE
 
 
 
