@@ -45,38 +45,38 @@ You walk up to your group of friends huddled around a table in the library; in t
 == meeting_one_freshmen01 ==
     You approach the table of freshmen. They all cower in fear. The smallest one says "Hi! :D" You learn his name is Chris - A Good Addition to This Team™. You awkwardly try to make conversation by asking them what they are interested in. They remain silent. 
     
-    *[glare at them until someone starts talking.] -> meeting_one_freshmen02
+*[glare at them until someone starts talking.] -> meeting_one_freshmen02
     
-    *[explain the team in attempt to put them at ease.] -> meeting_one_freshmen03
+*[explain the team in attempt to put them at ease.] 
+-> meeting_one_freshmen03
     
-    *[ramble about strategy in desperation.] -> meeting_one_freshmen03
+*[ramble about strategy in desperation.] -> meeting_one_freshmen03
     
 == meeting_one_freshmen02 ==
     They shiver under your cold gaze. After a few awkward moments, Chris enthusiasticlly pipes in saying "I heard there was 3d printing. That seems cool."
     
-    *[not wanting to scare the rest, you start the meeting.] -> meeting_one_start01
+*[not wanting to scare the rest, you start the meeting.] -> meeting_one_start01
     
 == meeting_one_freshmen03 ==
     After an extensive explanation, the freshmen look very confused, but appear at least a little more at ease.
     
-    *[you decide to start the meeting before you traumatize them.] 
-    -> meeting_one_start01
+*[you decide to start the meeting before you traumatize them.] ->meeting_one_start01
     
 == death_scene01 ==
     You are not very approachable. You never start the meeting. The mentors take you off of leadership. No one else steps up. The team dies. Good job. :^)
     ->DONE
     
 == meeting_one_start01 ==
-    You clap a basic rhythm and enjoy the power you have when the team responds with the same rhythm and goes silent. The newbies are slow, but seem to at least get the gist of what they need to do.  You introduce yourself and the other team leadership members to the team and start laying out what needs to happen before Build Season™ starts. You know, the basics. Teach the new kids how to use power tools, use SolidWorks, the programming language, and just generally make sure everyone is on the same page and ready to go come January. As the team breaks up into groups, you feel a swell of pride in the team and are determined to make your senior year the best year yet.
+You clap a basic rhythm and enjoy the power you have when the team responds with the same rhythm and goes silent. The newbies are slow, but seem to at least get the gist of what they need to do.  You introduce yourself and the other team leadership members to the team and start laying out what needs to happen before Build Season™ starts. You know, the basics. Teach the new kids how to use power tools, use SolidWorks, the programming language, and just generally make sure everyone is on the same page and ready to go come January. As the team breaks up into groups, you feel a swell of pride in the team and are determined to make your senior year the best year yet.
     
-    *[go home and get a good night’s sleep.] -> series_of_unfortunate_events01
+*[go home and get a good night’s sleep.] -> series_of_unfortunate_events01
     
 == series_of_unfortunate_events01 ==
-    You’ve been having a good day. You aced your math test and are on your way to a physics lab. A school day couldn’t go better. Your phone beeps, notifying you of a new email.
+You’ve been having a good day. You aced your math test and are on your way to a physics lab. A school day couldn’t go better. Your phone beeps, notifying you of a new email.
     
-    *[check the email from your mentor.] -> bad_news01
+*[check the email from your mentor.] -> bad_news01
     
-    *[ignore it and continue your pleasant day.] -> procrastination01
+*[ignore it and continue your pleasant day.] -> procrastination01
 
 == bad_news01 ==
 It reads: 
@@ -90,9 +90,24 @@ The physics lab went unexpectedly well. Garret only almost died once, which had 
 *[go to sleep.] -> series_of_unfortunate_events_procrastionation02
 
 == series_of_unfortunate_events02 ==
+It takes a few days to hand pick a few people, but you're confident in their abilities. The team you’ve constructed consists of Chris, Alexis, and yourself. Alexis has been on the Chairman’s group in the past, so you know she will be able to present herself well, and considering Chris has been the most attentive and enthusiastic freshman you’ve met so far, you figure teaching  him in the ways of begging for money now will benefit the team in the long run. Plus he’s small and still looks like a cute little kid, so maybe the companies will feel sorry for him and give us money. You‘re working on your presentation when your phone beeps, notifying you of another email.
+
+*[check your email.] -> bad_news02
+
+*[run through the presentation for the seventeenth time.] 
+-> procrastination02
+== series_of_unfortunate_events_procrastionation02 ==
+This presentation is too important. We can’t afford for anything else to go wrong, so whatever is in this email can wait. Right now, we need to figure out a way for Chris to remember when and where his cues are to start talking. You finally  get the presentation down consistently and decide that you should maybe release the group to go home, get some food, and, like, sleep.
+
+*[go retrieve sustenance.] -> series_of_unfortunate_events03
+
+== bad_news02 ==
 -> DONE
 
-== series_of_unfortunate_events_procrastionation02 ==
+== procrastination02 ==
+-> DONE
+
+== series_of_unfortunate_events03 ==
 -> DONE
 
 
