@@ -111,7 +111,10 @@ This presentation is too important. We can’t afford for anything else to go wr
 *[go retrieve sustenance.] -> series_of_unfortunate_events03
 
 == bad_news02 ==
--> DONE
+It reads: 
+Several of our mentors were unable to recommit for this season. There isn’t much we can do about it, other than try to make up for the loss with off season training, and start forming relationships with our student’s parents to begin recruiting new mentors. You may need to emphasize the importance of students communicating with their parents at the next team meeting. 
+
+*[begin plotting how you’re going to encourage student - parent interaction] -> series_of_unfortunate_events03
 
 == series_of_unfortunate_events03 ==
 -> DONE
