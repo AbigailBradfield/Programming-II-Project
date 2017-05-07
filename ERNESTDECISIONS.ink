@@ -161,7 +161,17 @@ You stand there not knowing what to say and a bit shocked
 *[sorta’ nod and walk off in the general direction of your next class; you really don’t know how your team is going to get through this; a lot of members have already stopped coming, but hey, miracles happen, right?] -> global_sadness
 
 == global_sadness ==
-->DONE
+ You walk into the final meeting before winter break, and, more importantly, kickoff. Chris comes in behind you, carrying a large platter of cupcakes. This meeting has the makings to be the best one in weeks. Team morale has been low these last few weeks, but it’s impossible not to feel at least a little excited and hopeful in the weeks leading up to Kickoff. Chris has blue cupcakes, the freshmen stopped breaking drills, we have a new bookkeeper, and the closet is no longer choking everyone with dust, so things are finally looking up in the world. :) You notice one cupcake has pink icing and rainbow sprinkles. Alexis approaches with an odd glint in her eye, seeking said pink cupcake.
+ 
+*[deny Alexis the cupcake and eat it yourself.] -> death_scene05
+*[give in to the monster.] -> teasing
+
+== death_scene05 ==
+Alexis stands there flabbergasted. How dare you deny her the precious cupcake after she labored tirelessly over the business plan?! She quickly converts the business team to her case, her cause being to protest against you. After a series of votes, the business team elects to leave FIRST Robotics and join DECA. The team is screwed. Not only have you killed the team, you have also just validated the Marketing Cult. Good job. :^)
+-> DONE
+
+== teasing ==
+-> DONE
 
 
 
