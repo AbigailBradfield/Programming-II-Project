@@ -171,7 +171,12 @@ Alexis stands there flabbergasted. How dare you deny her the precious cupcake af
 -> DONE
 
 == teasing ==
--> DONE
+You have earned the eternal respect of the business team. You’re not entirely sure this is a good thing, but maybe they’ll stop threatening to leave the team for DECA. Either way, at least no one will be murdered here tonight. On that reassuring note, you begin the meeting, thanking everyone for sticking with the team this long and bothering to consistently show up. You tell them it will only get harder when Build Season™ starts, but spew out some cheesy inspirational crap to make sure they actually show up to Kickoff.
+
+*[enjoy your break and come back ready for Steamworks.] -> Kickoff
+
+== Kickoff ==
+->DONE
 
 
 
