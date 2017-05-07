@@ -158,9 +158,9 @@ You continue spreading alternative facts that ultimately tears the remaining tea
 “We have been fortunate a lot over the years to be able to work in the FMB. However, due to their recent ambitions and expansions, they no longer have room for us in their bureau.”
 You stand there not knowing what to say and a bit shocked
 “We will have to find a new place to work, and if all else fails, Mrs. Reynolds has offered us our old closet back.”
-*[sorta’ nod and walk off in the general direction of your next class; you really don’t know how your team is going to get through this; a lot of members have already stopped coming, but hey, miracles happen, right?] -> global_saddness
+*[sorta’ nod and walk off in the general direction of your next class; you really don’t know how your team is going to get through this; a lot of members have already stopped coming, but hey, miracles happen, right?] -> global_sadness
 
-== global_saddness ==
+== global_sadness ==
 ->DONE
 
 
