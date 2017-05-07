@@ -95,8 +95,8 @@ You are approached by a mentor at the next team meeting.
     You blink, mildly confused.
     “Check your email. We need everyone focused.” 
 
-*[read the email] -> bad_news01
-*[slink away and cry because confrontation is scary] -> death_scene02
+*[read the email.] -> bad_news01
+*[slink away and cry because confrontation is scary.] -> death_scene02
 
 == death_scene02 ==
 You are so rattled by the sudden appearance of Tilson and his disappointment that you can’t even remember what he told you to do. You know it’s probably important, but you avoid the next few meetings out of fear. In doing so, you never find out that the team lost a significant amount of  funding and that you were in charge of finding new funding before it’s too late. It’s too late now. Good job. :^)
@@ -118,9 +118,18 @@ This presentation is too important. We can’t afford for anything else to go wr
 It reads: 
 Several of our mentors were unable to recommit for this season. There isn’t much we can do about it, other than try to make up for the loss with off season training, and start forming relationships with our student’s parents to begin recruiting new mentors. You may need to emphasize the importance of students communicating with their parents at the next team meeting. 
 
-*[begin plotting how you’re going to encourage student - parent interaction] -> series_of_unfortunate_events03
+*[begin plotting how you’re going to encourage student - parent interaction.] -> series_of_unfortunate_events03
 
 == series_of_unfortunate_events03 ==
+At the next team meeting you begin encouraging new students to decide what sub team they might be interested in so that they can participate in the training sessions that are starting next week. You are also sure to mention that making sure parents know what is going on with the team is vital to the team’s survival. After the meeting, Tilson approaches you, asking if you have a moment to talk.
+
+*[knowing it never takes only a singular moment to talk to Tilson you flee.] -> procrastination03
+*[accepting that you won’t be getting your calculus homework done, you hear what he has to say.] -> bad_news03
+
+== procrastination03 ==
+-> DONE
+
+== bad_news03 ==
 -> DONE
 
 
