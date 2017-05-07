@@ -87,15 +87,24 @@ The school system cut our funding last week. We’re going to have to make up fo
 == procrastination01 ==
 The physics lab went unexpectedly well. Garret only almost died once, which had to be some sort of record. Between the success of the Physics lab and your Math test, you chalked the day up as pretty good. By the time you’re ready to go to sleep, the email in your inbox is completely forgotten about. 
 
-*[go to sleep.] -> procrastination02
+*[go to sleep.] -> procrastination_aftermath01
+
+== procrastination_aftermath01 ==
+You are approached by a mentor at the next team meeting.
+    “Do you have any one in mind for the presentation?” 
+    You blink, mildly confused.
+    “Check your email. We need everyone focused.” 
+
+*[read the email] -> bad_news01
+*[slink away and cry because confrontation is scary] -> DONE
 
 == series_of_unfortunate_events02 ==
 It takes a few days to hand pick a few people, but you're confident in their abilities. The team you’ve constructed consists of Chris, Alexis, and yourself. Alexis has been on the Chairman’s group in the past, so you know she will be able to present herself well, and considering Chris has been the most attentive and enthusiastic freshman you’ve met so far, you figure teaching  him in the ways of begging for money now will benefit the team in the long run. Plus he’s small and still looks like a cute little kid, so maybe the companies will feel sorry for him and give us money. You‘re working on your presentation when your phone beeps, notifying you of another email.
 
 *[check your email.] -> bad_news02
 
-*[run through the presentation for the seventeenth time.] 
--> procrastination02
+*[run through the presentation for the seventeenth time.] -> procrastination02
+
 == procrastination02 ==
 This presentation is too important. We can’t afford for anything else to go wrong, so whatever is in this email can wait. Right now, we need to figure out a way for Chris to remember when and where his cues are to start talking. You finally  get the presentation down consistently and decide that you should maybe release the group to go home, get some food, and, like, sleep.
 
