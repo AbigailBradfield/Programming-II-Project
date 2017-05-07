@@ -131,9 +131,18 @@ You are the person in charge of starting the meeting. People eventually end up g
 It reads: 
 Several of our mentors were unable to recommit for this season. There isn’t much we can do about it, other than try to make up for the loss with off season training, and start forming relationships with our student’s parents to begin recruiting new mentors. You may need to emphasize the importance of students communicating with their parents at the next team meeting. 
 
-*[begin plotting how you’re going to encourage student - parent interaction] -> series_of_unfortunate_events03
+*[begin plotting how you’re going to encourage student - parent interaction.] -> series_of_unfortunate_events03
 
 == series_of_unfortunate_events03 ==
+At the next team meeting you begin encouraging new students to decide what sub team they might be interested in so that they can participate in the training sessions that are starting next week. You are also sure to mention that making sure parents know what is going on with the team is vital to the team’s survival. After the meeting, Tilson approaches you, asking if you have a moment to talk.
+
+*[knowing it never takes only a singular moment to talk to Tilson you flee.] -> procrastination03
+*[accepting that you won’t be getting your calculus homework done, you hear what he has to say.] -> bad_news03
+
+== procrastination03 ==
+-> DONE
+
+== bad_news03 ==
 -> DONE
 
 
