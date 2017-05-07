@@ -95,8 +95,8 @@ You are approached by a mentor at the next team meeting.
     You blink, mildly confused.
     “Check your email. We need everyone focused.” 
 
-*[read the email] -> bad_news01
-*[slink away and cry because confrontation is scary] -> death_scene02
+*[read the email.] -> bad_news01
+*[slink away and cry because confrontation is scary.] -> death_scene02
 
 == death_scene02 ==
 You are so rattled by the sudden appearance of Tilson and his disappointment that you can’t even remember what he told you to do. You know it’s probably important, but you avoid the next few meetings out of fear. In doing so, you never find out that the team lost a significant amount of  funding and that you were in charge of finding new funding before it’s too late. It’s too late now. Good job. :^)
@@ -112,7 +112,20 @@ It takes a few days to hand pick a few people, but you're confident in their abi
 == procrastination02 ==
 This presentation is too important. We can’t afford for anything else to go wrong, so whatever is in this email can wait. Right now, we need to figure out a way for Chris to remember when and where his cues are to start talking. You finally  get the presentation down consistently and decide that you should maybe release the group to go home, get some food, and, like, sleep.
 
-*[go retrieve sustenance.] -> series_of_unfortunate_events03
+*[go retrieve sustenance.] -> procrastination_aftermath02
+
+== procrastination_aftermath02 ==
+You are approached by a mentor at the beginning of the next team meeting.
+"I know you're busy with the sponsor presentations, but do you know waht you're going to say to the students tonight about mentors?"
+You blink, mildly confused.
+"Have you not checked your email? We need to recruit new mentors."
+
+*[quickly pull out your phone and check your email.] -> bad_news02
+*[cower in a corner until the end of the meeting.] -> death_scene03
+
+== death_scene03 ==
+You are the person in charge of starting the meeting. People eventually end up going what they think they should be doing, but are directionless due to your inability to get it together and tell people what they need to be doing. Now none of the newbies are interested in the robotics team, and, even though you aren’t aware it was a problem because you never read the darned email, now none of their parents will be interested in joining the team. Good job. You’ve condemned the team. It’s a miracle the team survived this long in the first place. But now it’s dead. Yay. :^)
+-> DONE
 
 == bad_news02 ==
 It reads: 
