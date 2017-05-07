@@ -140,10 +140,28 @@ At the next team meeting you begin encouraging new students to decide what sub t
 *[accepting that you won’t be getting your calculus homework done, you hear what he has to say.] -> bad_news03
 
 == procrastination03 ==
--> DONE
+You go home and your Calculus homework actually gets completed. You feel kind of bad about brushing Tilson off, but it was for the best. If what he had to tell was extremely important, he wouldn’t have let you leave, right?
+
+*[get home and go to sleep.] -> procrastination_aftermath03
+
+== procrastination_aftermath03 ==
+Wrong. The next day you are greeted with a flurry of rumours regarding the fate of the team. By the time 2nd block is over, you’ve been asked by at least 7 different people about where the team is going to work. You ignorantly tell them that the team will remain at the Fabrication Manifestation Bureau (FMB). Tilson approaches, having overheard the interaction.
+
+*[you allow Tilson to pull you aside.] -> bad_news03
+*[you proceed with your day spewing lies.] -> death_scene04
+
+== death_scene04 ==
+You continue spreading alternative facts that ultimately tears the remaining team members apart. You are eventually informed that the team did in fact lose its build space at the FMB, but by then it is too late. The team has already descended into discombobulated chaos. It takes too long to organize an alternative due to the miscommunications, and there is now nowhere for the team to actually build a robot. Nice going. :^)
+->DONE
 
 == bad_news03 ==
--> DONE
+“We have been fortunate a lot over the years to be able to work in the FMB. However, due to their recent ambitions and expansions, they no longer have room for us in their bureau.”
+You stand there not knowing what to say and a bit shocked
+“We will have to find a new place to work, and if all else fails, Mrs. Reynolds has offered us our old closet back.”
+*[sorta’ nod and walk off in the general direction of your next class; you really don’t know how your team is going to get through this; a lot of members have already stopped coming, but hey, miracles happen, right?] -> global_saddness
+
+== global_saddness ==
+->DONE
 
 
 
