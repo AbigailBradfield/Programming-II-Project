@@ -176,6 +176,11 @@ You have earned the eternal respect of the business team. You’re not entirely 
 *[enjoy your break and come back ready for Steamworks.] -> Kickoff
 
 == Kickoff ==
+The majority of the team actually shows up on time for kickoff, despite it being the last day of winter break. Everyone settles in pretty quickly, several with phones ready to get a jump start on the reveal video memes. Dean and Woodie talk for awhile, and it sounds slightly less forced than in years prior. Eventually, the actual reveal video is played, and whatever chattering was occurring ceases. Steamworks is looking up to be a good game judging by the animation. Maybe we have a chance to beat the Cheesy Poofs.
+
+*[pile as many students into your car as you can to head back to school for the first meeting of BuildSeason™.] -> team_strategy_meeting01
+
+== team_strategy_meeting01 ==
 ->DONE
 
 
