@@ -1,9 +1,9 @@
-<h2>Ernest Decsions: <h4> Ded Reptiles </h4></h2>
+<h2>Ernest Decsions: <h4> Ded Robots </h4></h2>
 
 -> prolouge
 
 == prolouge ==
-Ironically, Silicon Valley is a less than ideal location for a Robotics team. Sure, you were surrounded by NASA, Google, and Apple amongst other major tech companies, but Silicon Valley is Cheesy Poof territory. Naturally, the Cheesy Poofs’ home regional is shared with your team, team 4313, The Ded Reptiles. The Cheesy Poofs have 7 year monopoly on the Silicon Valley Regional, leaving little room for other teams to qualify for the World Championships. Last year, your team put up a good fight, and while the Cheesy Poofs walked away the event champions, it wasn’t without a struggle. This gives you hope for this year. It’s your last year before you graduate, and all you want out of it is a trip to the world championships. That can’t be too much to ask, right?
+Ironically, Silicon Valley is a less than ideal location for a Robotics team. Sure, you were surrounded by NASA, Google, and Apple amongst other major tech companies, but Silicon Valley is Cheesy Poof territory. Naturally, the Cheesy Poofs’ home regional is shared with your team, FRC Team 4313, The Ded Robots. The Cheesy Poofs have a 7 year monopoly on the Silicon Valley Regional, leaving little room for other teams to qualify for the World Championships. Last year, your team put up a good fight, and, while the Cheesy Poofs walked away the event champions, it wasn’t without a struggle. This gives you hope for this year. It’s your last year before you graduate, and all you want out of it is a trip to the world championships. That can’t be too much to ask, right?
  
  *[check your email.] ->email01
  
