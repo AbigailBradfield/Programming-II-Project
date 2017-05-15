@@ -1,4 +1,4 @@
-<h2>Ernest Decsions: <h4> Ded Robots </h4></h2>
+<h2>Ernest Decisions: <h4> Ded Robots </h4></h2>
 
 -> prolouge
 
